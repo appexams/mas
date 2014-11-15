@@ -1,0 +1,1020 @@
+2014/11/13 02:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+HTTP_REFERER=http://localhost/masapp/index.php?r=site/login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:11:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
+2014/11/13 02:12:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "login".' in F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\Working\Projects\loacal\htdocs\mas\framework\web\CWebApplication.php(141): CWebApplication->runController('login')
+#1 F:\Working\Projects\loacal\htdocs\mas\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\Working\Projects\loacal\htdocs\masapp\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/masapp/index.php?r=login
+---
